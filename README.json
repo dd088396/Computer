@@ -1,5 +1,4 @@
-# Computer.json
-All about computers
+
 {
 "Computer":[
 {
@@ -11,8 +10,7 @@ All about computers
 "Image": "https://www.bhphotovideo.com/images/images2500x2500/apple_z0un_mpxw30_bh_macbook_pro_tb_i7_3_5ghz_16gb_1343054.jpg"
 },
 {
-"Name":"XPS 13"
-"Screensize": ["13inch", "15inch"]
+"Name":"eensize": ["13inch", "15inch"]
 'Graphics": "Intel® UHD Graphics 620"
 "processor": ["i5core", "i7core"]
 "Ram": ["8GB", "16GB"]
@@ -35,4 +33,5 @@ All about computers
 "Image": "https://liliputing-wpengine.netdna-ssl.com/wp-content/uploads/2017/09/1020_03.jpg"
 }
 ]
-}
+}XPS 13"
+"Scr
